@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h4, h3 {
+    color: #2f2f2f;    
+}
+
+.sep {
+    height: 60px;
+}
+
+.underline {
+    margin-top: -15px;
+}
+
+a {    
+    color: #2f2f2f;
+}
+a:hover {
+    color: #ae2012;
+}
+
+.underline hr { 
+    height: 3px;
+    background: black;
+}
